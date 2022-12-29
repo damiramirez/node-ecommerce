@@ -1,0 +1,81 @@
+[{
+  "id": 1,
+  "title": "Toyota",
+  "description": "Tacoma Xtra",
+  "price": "$65489.97",
+  "thumbnail": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+  "code": "50-356-1030",
+  "stock": "2519848464"
+}, {
+  "id": 2,
+  "title": "Ford",
+  "description": "Econoline E250",
+  "price": "$152128.92",
+  "thumbnail": "http://dummyimage.com/145x100.png/ff4444/ffffff",
+  "code": "87-861-6071",
+  "stock": "3055169085"
+}, {
+  "id": 3,
+  "title": "Chevrolet",
+  "description": "Monte Carlo",
+  "price": "$106495.57",
+  "thumbnail": "http://dummyimage.com/108x100.png/cc0000/ffffff",
+  "code": "25-103-5066",
+  "stock": "2366578261"
+}, {
+  "id": 4,
+  "title": "Honda",
+  "description": "Accord",
+  "price": "$158899.32",
+  "thumbnail": "http://dummyimage.com/203x100.png/ff4444/ffffff",
+  "code": "54-694-7465",
+  "stock": "9131618324"
+}, {
+  "id": 5,
+  "title": "Buick",
+  "description": "Century",
+  "price": "$161671.22",
+  "thumbnail": "http://dummyimage.com/188x100.png/dddddd/000000",
+  "code": "19-688-0849",
+  "stock": "1336507012"
+}, {
+  "id": 6,
+  "title": "Isuzu",
+  "description": "Ascender",
+  "price": "$38464.23",
+  "thumbnail": "http://dummyimage.com/217x100.png/dddddd/000000",
+  "code": "40-564-4801",
+  "stock": "1190368382"
+}, {
+  "id": 7,
+  "title": "BMW",
+  "description": "5 Series",
+  "price": "$34960.75",
+  "thumbnail": "http://dummyimage.com/119x100.png/ff4444/ffffff",
+  "code": "54-096-2818",
+  "stock": "6472186065"
+}, {
+  "id": 8,
+  "title": "Audi",
+  "description": "Allroad",
+  "price": "$94732.35",
+  "thumbnail": "http://dummyimage.com/176x100.png/5fa2dd/ffffff",
+  "code": "80-802-8921",
+  "stock": "6776698503"
+}, {
+  "id": 9,
+  "title": "Nissan",
+  "description": "Sentra",
+  "price": "$127760.76",
+  "thumbnail": "http://dummyimage.com/114x100.png/cc0000/ffffff",
+  "code": "48-372-4422",
+  "stock": "2443944948"
+}, {
+  "id": 10,
+  "title": "Volkswagen",
+  "description": "GLI",
+  "price": "$115058.59",
+  "thumbnail": "http://dummyimage.com/216x100.png/cc0000/ffffff",
+  "code": "26-719-4417",
+  "stock": "8443562862"
+}]
